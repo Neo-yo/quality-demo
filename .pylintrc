@@ -1,0 +1,14 @@
+[MASTER]
+max-line-length=100
+
+[MESSAGES CONTROL]
+disable=unused-import,missing-docstring
+
+[FORMAT]
+max-module-lines=500
+
+[BASIC]
+good-names=i,j,k,ex,Run,_
+
+[SIMILARITIES]
+min-similarity-lines=4
